@@ -1,0 +1,20 @@
+C:\Users\student01\Desktop\s1083321 hw1\s1083321 hw1\bin\Debug\s1083321 hw1.exe.config
+C:\Users\student01\Desktop\s1083321 hw1\s1083321 hw1\bin\Debug\s1083321 hw1.exe
+C:\Users\student01\Desktop\s1083321 hw1\s1083321 hw1\bin\Debug\s1083321 hw1.pdb
+C:\Users\student01\Desktop\s1083321 hw1\s1083321 hw1\obj\Debug\s1083321 hw1.csprojAssemblyReference.cache
+C:\Users\student01\Desktop\s1083321 hw1\s1083321 hw1\obj\Debug\s1083321_hw1.Form1.resources
+C:\Users\student01\Desktop\s1083321 hw1\s1083321 hw1\obj\Debug\s1083321_hw1.Properties.Resources.resources
+C:\Users\student01\Desktop\s1083321 hw1\s1083321 hw1\obj\Debug\s1083321 hw1.csproj.GenerateResource.cache
+C:\Users\student01\Desktop\s1083321 hw1\s1083321 hw1\obj\Debug\s1083321 hw1.csproj.CoreCompileInputs.cache
+C:\Users\student01\Desktop\s1083321 hw1\s1083321 hw1\obj\Debug\s1083321 hw1.exe
+C:\Users\student01\Desktop\s1083321 hw1\s1083321 hw1\obj\Debug\s1083321 hw1.pdb
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw1\s1083321 hw1\obj\Debug\s1083321 hw1.csprojAssemblyReference.cache
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw1\s1083321 hw1\obj\Debug\s1083321_hw1.Form1.resources
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw1\s1083321 hw1\obj\Debug\s1083321_hw1.Properties.Resources.resources
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw1\s1083321 hw1\obj\Debug\s1083321 hw1.csproj.GenerateResource.cache
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw1\s1083321 hw1\obj\Debug\s1083321 hw1.csproj.CoreCompileInputs.cache
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw1\s1083321 hw1\obj\Debug\s1083321 hw1.exe
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw1\s1083321 hw1\obj\Debug\s1083321 hw1.pdb
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw1\s1083321 hw1\bin\Debug\s1083321 hw1.exe.config
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw1\s1083321 hw1\bin\Debug\s1083321 hw1.exe
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw1\s1083321 hw1\bin\Debug\s1083321 hw1.pdb

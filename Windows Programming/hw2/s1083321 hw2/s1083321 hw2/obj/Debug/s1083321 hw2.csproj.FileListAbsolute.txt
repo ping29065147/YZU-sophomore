@@ -1,0 +1,10 @@
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw2\s1083321 hw2\bin\Debug\s1083321 hw2.exe.config
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw2\s1083321 hw2\bin\Debug\s1083321 hw2.exe
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw2\s1083321 hw2\bin\Debug\s1083321 hw2.pdb
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw2\s1083321 hw2\obj\Debug\s1083321 hw2.csprojAssemblyReference.cache
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw2\s1083321 hw2\obj\Debug\s1083321_hw2.Form1.resources
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw2\s1083321 hw2\obj\Debug\s1083321_hw2.Properties.Resources.resources
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw2\s1083321 hw2\obj\Debug\s1083321 hw2.csproj.GenerateResource.cache
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw2\s1083321 hw2\obj\Debug\s1083321 hw2.csproj.CoreCompileInputs.cache
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw2\s1083321 hw2\obj\Debug\s1083321 hw2.exe
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw2\s1083321 hw2\obj\Debug\s1083321 hw2.pdb

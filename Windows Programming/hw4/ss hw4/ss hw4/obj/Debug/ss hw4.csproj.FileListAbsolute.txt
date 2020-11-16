@@ -1,0 +1,9 @@
+C:\Users\pinghe\Desktop\ss hw4\ss hw4\bin\Debug\ss hw4.exe.config
+C:\Users\pinghe\Desktop\ss hw4\ss hw4\bin\Debug\ss hw4.exe
+C:\Users\pinghe\Desktop\ss hw4\ss hw4\bin\Debug\ss hw4.pdb
+C:\Users\pinghe\Desktop\ss hw4\ss hw4\obj\Debug\ss hw4.csprojAssemblyReference.cache
+C:\Users\pinghe\Desktop\ss hw4\ss hw4\obj\Debug\ss_hw4.Form1.resources
+C:\Users\pinghe\Desktop\ss hw4\ss hw4\obj\Debug\ss_hw4.Properties.Resources.resources
+C:\Users\pinghe\Desktop\ss hw4\ss hw4\obj\Debug\ss hw4.csproj.GenerateResource.cache
+C:\Users\pinghe\Desktop\ss hw4\ss hw4\obj\Debug\ss hw4.exe
+C:\Users\pinghe\Desktop\ss hw4\ss hw4\obj\Debug\ss hw4.pdb

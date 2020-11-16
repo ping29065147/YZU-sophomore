@@ -1,0 +1,10 @@
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw3\s1083321 hw3\bin\Debug\s1083321 hw3.exe.config
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw3\s1083321 hw3\bin\Debug\s1083321 hw3.exe
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw3\s1083321 hw3\bin\Debug\s1083321 hw3.pdb
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw3\s1083321 hw3\obj\Debug\s1083321 hw3.csprojAssemblyReference.cache
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw3\s1083321 hw3\obj\Debug\s1083321_hw3.Form1.resources
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw3\s1083321 hw3\obj\Debug\s1083321_hw3.Properties.Resources.resources
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw3\s1083321 hw3\obj\Debug\s1083321 hw3.csproj.GenerateResource.cache
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw3\s1083321 hw3\obj\Debug\s1083321 hw3.csproj.CoreCompileInputs.cache
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw3\s1083321 hw3\obj\Debug\s1083321 hw3.exe
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw3\s1083321 hw3\obj\Debug\s1083321 hw3.pdb
