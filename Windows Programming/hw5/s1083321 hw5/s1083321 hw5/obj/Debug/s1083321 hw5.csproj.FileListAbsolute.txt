@@ -1,0 +1,10 @@
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw5\s1083321 hw5\bin\Debug\s1083321 hw5.exe.config
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw5\s1083321 hw5\bin\Debug\s1083321 hw5.exe
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw5\s1083321 hw5\bin\Debug\s1083321 hw5.pdb
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw5\s1083321 hw5\obj\Debug\s1083321 hw5.csprojAssemblyReference.cache
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw5\s1083321 hw5\obj\Debug\s1083321_hw5.Form1.resources
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw5\s1083321 hw5\obj\Debug\s1083321_hw5.Properties.Resources.resources
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw5\s1083321 hw5\obj\Debug\s1083321 hw5.csproj.GenerateResource.cache
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw5\s1083321 hw5\obj\Debug\s1083321 hw5.csproj.CoreCompileInputs.cache
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw5\s1083321 hw5\obj\Debug\s1083321 hw5.exe
+C:\Users\rayeh\Desktop\程式設計\視窗\s1083321 hw5\s1083321 hw5\obj\Debug\s1083321 hw5.pdb
