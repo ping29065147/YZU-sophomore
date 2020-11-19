@@ -51,5 +51,5 @@ int main(int argc, char* argv[])
     	warpAffine(img, dst, rot_mat, img_sz);
     	imwrite(argv[2], dst);
 
-   	 return 0;
+   	return 0;
 }
