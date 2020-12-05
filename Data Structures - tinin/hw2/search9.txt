@@ -1,0 +1,3 @@
+Twitch Emote
+c
+id
