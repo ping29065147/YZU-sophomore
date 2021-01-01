@@ -1,0 +1,53 @@
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-2\1083321 12-1\bin\Debug\1083321 12-1.exe.config
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-2\1083321 12-1\bin\Debug\1083321 12-1.exe
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-2\1083321 12-1\bin\Debug\1083321 12-1.pdb
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-2\1083321 12-1\obj\Debug\1083321 12-1.csprojAssemblyReference.cache
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-2\1083321 12-1\obj\Debug\_1083321_12_1.Form1.resources
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-2\1083321 12-1\obj\Debug\_1083321_12_1.Properties.Resources.resources
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-2\1083321 12-1\obj\Debug\1083321 12-1.csproj.GenerateResource.cache
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-2\1083321 12-1\obj\Debug\1083321 12-1.csproj.CoreCompileInputs.cache
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-2\1083321 12-1\obj\Debug\1083321 12-1.exe
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-2\1083321 12-1\obj\Debug\1083321 12-1.pdb
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-4\1083321 12-1\bin\Debug\1083321 12-1.exe.config
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-4\1083321 12-1\bin\Debug\1083321 12-1.exe
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-4\1083321 12-1\bin\Debug\1083321 12-1.pdb
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-4\1083321 12-1\obj\Debug\1083321 12-1.csprojAssemblyReference.cache
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-4\1083321 12-1\obj\Debug\_1083321_12_1.Form1.resources
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-4\1083321 12-1\obj\Debug\_1083321_12_1.Properties.Resources.resources
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-4\1083321 12-1\obj\Debug\1083321 12-1.csproj.GenerateResource.cache
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-4\1083321 12-1\obj\Debug\1083321 12-1.csproj.CoreCompileInputs.cache
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-4\1083321 12-1\obj\Debug\1083321 12-1.exe
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-4\1083321 12-1\obj\Debug\1083321 12-1.pdb
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-6\1083321 12-1\bin\Debug\1083321 12-1.exe.config
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-6\1083321 12-1\bin\Debug\1083321 12-1.exe
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-6\1083321 12-1\bin\Debug\1083321 12-1.pdb
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-6\1083321 12-1\obj\Debug\1083321 12-1.csprojAssemblyReference.cache
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-6\1083321 12-1\obj\Debug\_1083321_12_1.Form1.resources
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-6\1083321 12-1\obj\Debug\_1083321_12_1.Form2.resources
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-6\1083321 12-1\obj\Debug\_1083321_12_1.Properties.Resources.resources
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-6\1083321 12-1\obj\Debug\1083321 12-1.csproj.GenerateResource.cache
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-6\1083321 12-1\obj\Debug\1083321 12-1.csproj.CoreCompileInputs.cache
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-6\1083321 12-1\obj\Debug\1083321 12-1.exe
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-6\1083321 12-1\obj\Debug\1083321 12-1.pdb
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-7\1083321 12-1\bin\Debug\1083321 12-1.exe.config
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-7\1083321 12-1\bin\Debug\1083321 12-1.exe
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-7\1083321 12-1\bin\Debug\1083321 12-1.pdb
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-7\1083321 12-1\obj\Debug\1083321 12-1.csprojAssemblyReference.cache
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-7\1083321 12-1\obj\Debug\_1083321_12_1.Form1.resources
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-7\1083321 12-1\obj\Debug\_1083321_12_1.Form2.resources
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-7\1083321 12-1\obj\Debug\_1083321_12_1.Properties.Resources.resources
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-7\1083321 12-1\obj\Debug\1083321 12-1.csproj.GenerateResource.cache
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-7\1083321 12-1\obj\Debug\1083321 12-1.csproj.CoreCompileInputs.cache
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-7\1083321 12-1\obj\Debug\1083321 12-1.exe
+C:\Users\rayeh\Desktop\程式設計\視窗\1083321 12-7\1083321 12-1\obj\Debug\1083321 12-1.pdb
+C:\Users\pinghe\Desktop\1083321 12-7\1083321 12-1\bin\Debug\1083321 12-1.exe.config
+C:\Users\pinghe\Desktop\1083321 12-7\1083321 12-1\bin\Debug\1083321 12-1.exe
+C:\Users\pinghe\Desktop\1083321 12-7\1083321 12-1\bin\Debug\1083321 12-1.pdb
+C:\Users\pinghe\Desktop\1083321 12-7\1083321 12-1\obj\Debug\1083321 12-1.csprojAssemblyReference.cache
+C:\Users\pinghe\Desktop\1083321 12-7\1083321 12-1\obj\Debug\_1083321_12_1.Form1.resources
+C:\Users\pinghe\Desktop\1083321 12-7\1083321 12-1\obj\Debug\_1083321_12_1.Form2.resources
+C:\Users\pinghe\Desktop\1083321 12-7\1083321 12-1\obj\Debug\_1083321_12_1.Properties.Resources.resources
+C:\Users\pinghe\Desktop\1083321 12-7\1083321 12-1\obj\Debug\1083321 12-1.csproj.GenerateResource.cache
+C:\Users\pinghe\Desktop\1083321 12-7\1083321 12-1\obj\Debug\1083321 12-1.exe
+C:\Users\pinghe\Desktop\1083321 12-7\1083321 12-1\obj\Debug\1083321 12-1.pdb
+C:\Users\pinghe\Desktop\1083321 12-7\1083321 12-1\obj\Debug\_1083321_12_1.Form3.resources
