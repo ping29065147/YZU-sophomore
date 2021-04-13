@@ -20,6 +20,6 @@ class risc-v主要有5個function
 
 1. constructor：將各個指令必要的machine code存入各自的map，例如func3、opcode等
 
-2.reset()：清除vector<string> V及result
+2. reset()：清除vector<string> V及result
 
 3. binary(string rs, int len)：讀入一個數字字串與長度，將此數字轉為二進制並補足0至長度，回傳此二進制字串
