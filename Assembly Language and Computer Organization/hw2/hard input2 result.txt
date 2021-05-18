@@ -1,0 +1,106 @@
+         instruction     entries   history   2BC  2BC  2BC  2BC     predict   answer
+
+        addi R1,R0,0         0       00      SN   SN   SN   SN         N         N
+                             1       00      SN   SN   SN   SN
+
+                             0       00      SN   SN   SN   SN
+        addi R2,R0,8         1       00      SN   SN   SN   SN         N         N
+
+                             0       00      SN   SN   SN   SN
+       beq R1,R2,END         1       00      SN   SN   SN   SN         N         N
+
+        addi R3,R0,1         0       00      SN   SN   SN   SN         N         N
+                             1       00      SN   SN   SN   SN
+
+                             0       00      SN   SN   SN   SN
+        add R1,R1,R3         1       00      SN   SN   SN   SN         N         N
+
+      beq R0,R0,LOOP         0       00      SN   SN   SN   SN         N         T
+                             1       00      SN   SN   SN   SN
+
+                             0       01      WN   SN   SN   SN
+       beq R1,R2,END         1       00      SN   SN   SN   SN         N         N
+
+        addi R3,R0,1         0       01      WN   SN   SN   SN         N         N
+                             1       00      SN   SN   SN   SN
+
+                             0       10      WN   SN   SN   SN
+        add R1,R1,R3         1       00      SN   SN   SN   SN         N         N
+
+      beq R0,R0,LOOP         0       10      WN   SN   SN   SN         N         T
+                             1       00      SN   SN   SN   SN
+
+                             0       01      WN   SN   WN   SN
+       beq R1,R2,END         1       00      SN   SN   SN   SN         N         N
+
+        addi R3,R0,1         0       01      WN   SN   WN   SN         N         N
+                             1       00      SN   SN   SN   SN
+
+                             0       10      WN   SN   WN   SN
+        add R1,R1,R3         1       00      SN   SN   SN   SN         N         N
+
+      beq R0,R0,LOOP         0       10      WN   SN   WN   SN         N         T
+                             1       00      SN   SN   SN   SN
+
+                             0       01      WN   SN   WT   SN
+       beq R1,R2,END         1       00      SN   SN   SN   SN         N         N
+
+        addi R3,R0,1         0       01      WN   SN   WT   SN         N         N
+                             1       00      SN   SN   SN   SN
+
+                             0       10      WN   SN   WT   SN
+        add R1,R1,R3         1       00      SN   SN   SN   SN         N         N
+
+      beq R0,R0,LOOP         0       10      WN   SN   WT   SN         T         T
+                             1       00      SN   SN   SN   SN
+
+                             0       01      WN   SN   ST   SN
+       beq R1,R2,END         1       00      SN   SN   SN   SN         N         N
+
+        addi R3,R0,1         0       01      WN   SN   ST   SN         N         N
+                             1       00      SN   SN   SN   SN
+
+                             0       10      WN   SN   ST   SN
+        add R1,R1,R3         1       00      SN   SN   SN   SN         N         N
+
+      beq R0,R0,LOOP         0       10      WN   SN   ST   SN         T         T
+                             1       00      SN   SN   SN   SN
+
+                             0       01      WN   SN   ST   SN
+       beq R1,R2,END         1       00      SN   SN   SN   SN         N         N
+
+        addi R3,R0,1         0       01      WN   SN   ST   SN         N         N
+                             1       00      SN   SN   SN   SN
+
+                             0       10      WN   SN   ST   SN
+        add R1,R1,R3         1       00      SN   SN   SN   SN         N         N
+
+      beq R0,R0,LOOP         0       10      WN   SN   ST   SN         T         T
+                             1       00      SN   SN   SN   SN
+
+                             0       01      WN   SN   ST   SN
+       beq R1,R2,END         1       00      SN   SN   SN   SN         N         N
+
+        addi R3,R0,1         0       01      WN   SN   ST   SN         N         N
+                             1       00      SN   SN   SN   SN
+
+                             0       10      WN   SN   ST   SN
+        add R1,R1,R3         1       00      SN   SN   SN   SN         N         N
+
+      beq R0,R0,LOOP         0       10      WN   SN   ST   SN         T         T
+                             1       00      SN   SN   SN   SN
+
+                             0       01      WN   SN   ST   SN
+       beq R1,R2,END         1       00      SN   SN   SN   SN         N         N
+
+        addi R3,R0,1         0       01      WN   SN   ST   SN         N         N
+                             1       00      SN   SN   SN   SN
+
+                             0       10      WN   SN   ST   SN
+        add R1,R1,R3         1       00      SN   SN   SN   SN         N         N
+
+      beq R0,R0,LOOP         0       10      WN   SN   ST   SN         T         T
+                             1       00      SN   SN   SN   SN
+
+                             0       01      WN   SN   ST   SN
+       beq R1,R2,END         1       00      SN   SN   SN   SN         N         T

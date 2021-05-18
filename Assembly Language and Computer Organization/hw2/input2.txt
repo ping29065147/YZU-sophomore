@@ -1,0 +1,8 @@
+0x000      addi R1,R0,0
+0x004      addi R2,R0,8
+      LOOP:
+0x008      beq R1,R2,END
+0x012      addi R3,R0,1
+0x012      add R1,R1,R3
+0x016      beq R0,R0,LOOP
+      END:
