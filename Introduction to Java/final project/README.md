@@ -1,0 +1,1 @@
+關於程式的說明放在 [Java Gobang 五子棋](https://www.pinghenotes.com/Java-Gobang/)
